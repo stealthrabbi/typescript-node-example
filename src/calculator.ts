@@ -8,4 +8,8 @@ export default class calculator {
       let c = a - b;
       return c;
     }
+
+    static Product(a: number, b: number): number {
+      return a * b;
+    }
   }
