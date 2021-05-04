@@ -1,0 +1,6 @@
+{
+    // get vscode to shut up about experimental decorators, despite it being enabled
+    // in tsconfig.json
+    // https://stackoverflow.com/a/48185725/680268
+    "js/ts.implicitProjectConfig.experimentalDecorators":true
+}
